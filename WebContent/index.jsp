@@ -19,6 +19,7 @@
      right:0; ">
 <a href="login.jsp" >Login</a>
 <a href="PreRegistrationServlet" >Register</a><br>
+<a href="thirdfile.jsp" >New Link</a><br>
 </span>
 <img src="top.jpeg" width="200" height="200"alt="top"/>
 <img src="top.jpeg" width="200" height="200" alt="jeans"/>
